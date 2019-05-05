@@ -1,0 +1,38 @@
+[
+    {
+        "FirstName": "Abra",
+        "LastName": "Thomas",
+        "Age": 20,
+        "Birthday": "10/27/1998",
+        "CareHome": "Olive Grove",
+        "Position": "Volunteer",
+        "EmployeeID": 1
+    },
+    {
+        "FirstName": "Employee3",
+        "LastName": "Peterson",
+        "Age": 15,
+        "Birthday": "10/27/2003",
+        "CareHome": "Golden Rose",
+        "Position": "Volunteer",
+        "EmployeeID": 2
+    },
+    {
+        "FirstName":"Employee2",
+        "LastName": "Simedru",
+        "Age": 30,
+        "Birthday": "10/27/1988",
+        "CareHome": "Olive Grove",
+        "Position": "Care Giver",
+        "EmployeeID": 3
+    },
+    {
+        "FirstName":"Aden",
+        "LastName": "Kai",
+        "Age": 25,
+        "Birthday": "10/27/1993",
+        "CareHome": "Golden Rose",
+        "Position": "Regional Manager",
+        "EmployeeID": 4
+    }
+]

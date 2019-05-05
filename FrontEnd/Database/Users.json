@@ -1,0 +1,66 @@
+[
+    {
+      "Email": "admin",
+      "Password": "",
+      "UserType": "Administrator",
+      "FirstName": "James",
+      "LastName": "Smith",
+      "avatar_url": "https://facebook.github.io/react-native/docs/assets/favicon.png",
+      "birthdate": "01/01/1990"
+    },
+    {
+      "Email": "admin2",
+      "Password": "",
+      "UserType": "Administrator",
+      "FirstName": "Different",
+      "LastName": "AdminPage"
+    },
+    {
+      "Email": "twotypes",
+      "Password": "password",
+      "UserType": "Administrator,Manager",
+      "FirstName": "Cristina",
+      "LastName": "Serban"
+    },
+    {
+      "Email": "manager",
+      "Password": "Password",
+      "UserType": "Manager",
+      "FirstName": "Jasen",
+      "LastName": "Simedru"
+    },
+    {
+      "Email": "volunteer",
+      "Password": "Password",
+      "UserType": "Volunteer",
+      "FirstName": "Joe",
+      "LastName": "Smith"
+    },
+    {
+      "Email": "elder",
+      "Password": "",
+      "UserType": "Elder",
+      "FirstName": "Margaret",
+      "LastName": "Bittner",
+      "avatar_url": "https://randomuser.me/api/portraits/women/26.jpg"
+    },
+    {
+      "Email": "family",
+      "Password": "",
+      "UserType": "Family",
+      "FirstName": "Jack",
+      "LastName": "Scott",
+      "FamilyMembers": [{
+        "MemberName": "Johnny Smith",
+        "Relation":   "Husband"
+      },
+      {
+        "MemberName": "Betty White",
+        "Relation":   "Cousin"
+      },
+      {
+        "MemberName": "Susan Smith",
+        "Relation":   "Daughter"
+      }]
+    }
+  ]

@@ -1,0 +1,40 @@
+[
+  {
+		"adminID": "admin",
+		"managedCareHomes":[
+			{
+        "CareHome": 	 "Care Home 1",
+				"chAddress":   "Address 1",
+				"chLayout": 	 "Layout Image",
+				"chEmployees": "",
+				"chElders": 	 ""
+			},
+			{
+        "CareHome": 	 "Care Home 2",
+				"chAddress": 	 "Address 2",
+				"chLayout": 	 "Image Example",
+				"chEmployees": "",
+				"chElders": 	 "Elders from "
+			}
+		]
+	},
+	{
+		"adminID": "admin2",
+		"managedCareHomes":[
+			{
+        "CareHome": 	 "(A2) Care Home 1",
+				"chAddress":   "Address 1",
+				"chLayout": 	 "Layout Image",
+				"chEmployees": "",
+				"chElders": 	 ""
+			},
+			{
+        "CareHome": 	 "Care Home 2",
+				"chAddress": 	 "Address 2",
+				"chLayout": 	 "Image Example",
+				"chEmployees": "",
+				"chElders": 	 "Elders from "
+			}
+		]
+	}
+]
